@@ -5,3 +5,7 @@
 [submodule "ggpicrust2"]
 	path = ggpicrust2
 	url = https://github.com/cafferychen777/ggpicrust2
+[submodule "mLLMCelltype"]
+	path = mLLMCelltype
+	url = https://github.com/cafferychen777/mllmcelltype
+	subdir = R
